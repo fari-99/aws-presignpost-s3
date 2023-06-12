@@ -1,4 +1,4 @@
-module github.com/fari-99/aws-presignpost-s3
+module github.com/fari-99/aws-presignpost-s3-go
 
 go 1.18
 
