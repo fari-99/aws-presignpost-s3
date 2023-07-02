@@ -1,4 +1,4 @@
-package s3
+package s3Presign
 
 import (
 	"crypto/hmac"
